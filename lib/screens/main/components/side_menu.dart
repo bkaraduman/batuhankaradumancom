@@ -44,7 +44,7 @@ class SideMenu extends StatelessWidget {
                     SizedBox(height: defaultPadding / 2),
                     TextButton(
                       onPressed: () {
-                        launch('/assets/cv/batuhan_karaduman.pdf');
+                        launch('/assets/assets/cv/batuhan_karaduman.pdf');
                       },
                       child: FittedBox(
                         child: Row(
